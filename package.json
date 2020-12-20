@@ -6,7 +6,7 @@
 		"url": "https://github.com/JakeNavith/catalog-records.git"
 	},
 	"license": "MIT",
-	"version": "2020.10.24",
+	"version": "2020.12.20",
 	"scripts": {
 		"eslint": "eslint",
 		"eslint:fix": "eslint --fix ./*.js ./src/*.ts ./src/components/**/*.svelte ./src/graphql/**/*.ts ./src/routes/**/*.svelte ./src/routes/**/*.ts",
